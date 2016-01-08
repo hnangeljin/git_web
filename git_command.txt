@@ -1,0 +1,6 @@
+$ git init
+$ touch git_command.txt
+$ git add .
+$ git commit -m "first commit"
+$ git remote add origin git@github.com:hnangeljin/git_web.git
+$ git push -u origin master
