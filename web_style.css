@@ -2,9 +2,36 @@ h1{
 	text-align: center;
 	color: orange;
 }
+h3{
+	text-align: center;
+}
+body{
+	width: 650px;
+}
 .image{
 	width: 400px;
 	height: 280px;
 	float: left;
 	margin: 10px;
+}
+nav{
+	height: 60px;
+	background-color: lightgreen;
+	width: auto;
+}
+ul{
+	list-style-type: none;
+	display: inline;
+	text-align: center;
+}
+li{
+	margin-left: 150px;
+	display: inline;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
 }
