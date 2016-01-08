@@ -1,0 +1,10 @@
+h1{
+	text-align: center;
+	color: orange;
+}
+.image{
+	width: 400px;
+	height: 280px;
+	float: left;
+	margin: 10px;
+}
